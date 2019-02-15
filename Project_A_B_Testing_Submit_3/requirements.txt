@@ -1,0 +1,2 @@
+python - Reindexing after pandas.drop_duplicates
+http://bit.ly/2KopiY2
